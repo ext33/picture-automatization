@@ -9,5 +9,6 @@ run:
 1. install python 3.6+
 2. pip install watchdog
 3. pip install pyinstaller
-4. pyinstaller -F -w pict-automatization.py
-5. in foder dist run executable file
+4. select folders in .py file
+5. pyinstaller -F -w pict-automatization.py
+6. in foder dist run executable file
