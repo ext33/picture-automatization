@@ -18,8 +18,8 @@ class Handler(PatternMatchingEventHandler):
                 shutil.move(old_place, new_place)
 
 
-old_folder = ''
-new_folder = ''
+old_folder = os.path.join('')
+new_folder = os.path.join('')
 
 handler = Handler()
 observer = Observer()

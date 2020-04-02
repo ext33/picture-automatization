@@ -3,8 +3,8 @@ automatically transfers files with extensions .png .jpg .jpeg .gif .webp .svg fr
 
 in pict-automatization.py:
 ```
-old_folder = '*for example - path to download folder*'
-new_folder = '*path to destination folder*'
+old_folder = os.path.join('*for example - path to download folder*')
+new_folder = os.path.join('*path to destination folder*')
 ```
 run:
 1. install python 3.6+
