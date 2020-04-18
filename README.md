@@ -1,5 +1,5 @@
 picture-automatization script
-automatically transfers files with extensions .png .jpg .jpeg .gif .webp .svg from selected folder to the destination folder
+automatically transfers .png .jpg .jpeg .gif .webp .svg files from selected folder to the destination folder
 
 in pict-automatization.py:
 ```
